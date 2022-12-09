@@ -6,7 +6,7 @@
 <%@ page import = "java.sql.SQLException" %>
 <html>
 <head>
-<title>Database SQL</title>
+<title>DB connection</title>
 </head>
 <body>
 	<%

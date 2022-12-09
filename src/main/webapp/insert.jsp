@@ -2,7 +2,7 @@
 <%@ page import="java.sql.*"%>
 <html>
 <head>
-<title>Database SQL</title>
+<title>Insert</title>
 </head>
 <body>
 	<form method="post" action="insert_process.jsp">

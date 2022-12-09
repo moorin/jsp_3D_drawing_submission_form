@@ -3,7 +3,7 @@
 <%@ page import="java.time.LocalDate"%>
 <html>
 <head>
-<title>Database SQL</title>
+<title>Insert process</title>
 </head>
 <body>
 	<%@ include file="dbconn.jsp"%>
